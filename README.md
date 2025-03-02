@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML challenges**
 
-- 👨‍💻 All of my projects are available at [mohammedbamusa4459.wixsite.com/user](https://mohammedbamusa4459.wixsite.com/user)
+- 👨‍💻 All of my projects are available at [mohammedbamusa.dev](https://mohammedbamusa4459.wixsite.com/user)
 
 - 📫 How to reach me **mohammedbamusa4459@gmail.com**
 
