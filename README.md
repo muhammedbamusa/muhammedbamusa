@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on real time projects using Machine Learning <br>Pursuing Bachelor's meanwhile<br>Fun fact: I'm a die-hard football fan who not only plays but also eats, sleeps, and breathes the beautiful game!<br>
 
-Get to know more about me at - [mohammedbamusa.dev](https://muhammedbamusa.github.io/Portfolio/home)
+Get to know more about me at - [Click me](https://muhammedbamusa.github.io/Portfolio/home)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mohammed_bamusa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedbamusa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedbamusa4459@gmail.com)
